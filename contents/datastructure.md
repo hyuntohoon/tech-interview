@@ -18,11 +18,24 @@
 
 > :arrow_double_up:[Top](#1-data-structure)    :leftwards_arrow_with_hook:[Back](https://github.com/WeareSoft/tech-interview#1-data-structure)    :information_source:[Home](https://github.com/WeareSoft/tech-interview#tech-interview)
 > - []()
+* 배열 개념
+   * 연속적인 메모리 주소 할당으로 데이터 저장한 자료구조
+   * 시간 복잡도는 O(n)
 
 ### LinkedList
 
 > :arrow_double_up:[Top](#1-data-structure)    :leftwards_arrow_with_hook:[Back](https://github.com/WeareSoft/tech-interview#1-data-structure)    :information_source:[Home](https://github.com/WeareSoft/tech-interview#tech-interview)
 > - []()
+* LinkedList 개념
+  * 단위는 노드이며, 헤드와 테일로 구성
+  * 다음 노드의 위치나, 이전 노드의 위치를 헤드, 테일에 위치
+
+* LinkedList 종류
+  * 단일인 경우 다음만 이중인 경우 이전과 다음 노드의 정보를 가지고 있음
+ 
+* LinkedList 특징
+  * LinkedList는 메모리에 연속적으로 저장하기 힘든 경우(불연속) 사용
+ 
 
 ### HashTable
 
